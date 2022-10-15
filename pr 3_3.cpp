@@ -1,0 +1,222 @@
+#include<iostream>
+using namespace std;
+class Employees{
+	public:
+	int id;
+	string name;
+	string role;
+	int age;
+	int salary;
+	int experience;
+	string city;
+	string company_name;
+};
+main()
+{
+	Employees s1,s2,s3,s4,s5,s6,s7,s8,z1,z2,z3,z4,z5,z6,z7,z8,i1,i2,i3,i4,i5,i6,i7,i8,o1,o2,o3,o4,o5,o6,o7,o8,t1,t2,t3,t4,t5,t6,t7,t8;
+// =================1========================
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 1"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees id 1:-";
+	cin>>s1.id;
+	cout<<"Employees Name 1:-";
+	cin>>s2.name;
+	cout<<"Employees role 1:-";
+	cin>>s3.role;
+	cout<<"Employees age 1:-";
+	cin>>s4.age;
+	cout<<"Employees salary 1:-";
+	cin>>s5.salary;
+	cout<<"Employees experience 1:-";
+	cin>>s6.experience;
+	cout<<"Employees city 1:-";
+	cin>>s7.city;
+	cout<<"Employees company Name 1:-";
+	cin>>s8.company_name;
+// =========================2======================================	
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 2"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees id 2:-";
+	cin>>z1.id;
+	cout<<"Employees Name 2:-";
+	cin>>z2.name;
+	cout<<"Employees role 2:-";
+	cin>>z3.role;
+	cout<<"Employees age 2:-";
+	cin>>z4.age;
+	cout<<"Employees salary 2:-";
+	cin>>z5.salary;
+	cout<<"Employees experience 2:-";
+	cin>>z6.experience;
+	cout<<"Employees city 2:-";
+	cin>>z7.city;
+	cout<<"Employees company Name 2:-";
+	cin>>z8.company_name;
+// =========================3===========================================	
+
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 3"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees id 3:-";
+	cin>>i1.id;
+	cout<<"Employees Name 3:-";
+	cin>>i2.name;
+	cout<<"Employees role 3:-";
+	cin>>i3.role;
+	cout<<"Employees age 3:-";
+	cin>>i4.age;
+	cout<<"Employees salary 3:-";
+	cin>>i5.salary;
+	cout<<"Employees experience 3:-";
+	cin>>i6.experience;
+	cout<<"Employees city 3:-";
+	cin>>i7.city;
+	cout<<"Employees company Name 3:-";
+	cin>>i8.company_name;
+// =========================4======================================	
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 2"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees id 4:-";
+	cin>>o1.id;
+	cout<<"Employees Name 4:-";
+	cin>>o2.name;
+	cout<<"Employees role 4:-";
+	cin>>o3.role;
+	cout<<"Employees age 4:-";
+	cin>>o4.age;
+	cout<<"Employees salary 4:-";
+	cin>>o5.salary;
+	cout<<"Employees experience 4:-";
+	cin>>o6.experience;
+	cout<<"Employees city 4:-";
+	cin>>o7.city;
+	cout<<"Employees company Name 4:-";
+	cin>>o8.company_name;
+// =========================5======================================	
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 5"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees id 5:-";
+	cin>>t1.id;
+	cout<<"Employees Name 5:-";
+	cin>>t2.name;
+	cout<<"Employees role 5:-";
+	cin>>t3.role;
+	cout<<"Employees age 5:-";
+	cin>>t4.age;
+	cout<<"Employees salary 5:-";
+	cin>>t5.salary;
+	cout<<"Employees experience 5:-";
+	cin>>t6.experience;
+	cout<<"Employees city 5:-";
+	cin>>t7.city;
+	cout<<"Employees company Name 5:-";
+	cin>>t8.company_name;
+
+// -------------------1-----------------
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 1"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl<<endl;
+	cout<<endl<<"Employees id 1:-";
+	cout<<s1.id<<endl;
+	cout<<"Employees Name 1:-";
+	cout<<s2.name<<endl;
+	cout<<"Employees role 1:-";
+	cout<<s3.role<<endl;
+	cout<<"Employees age 1:-";
+	cout<<s4.age<<endl;
+	cout<<"Employees salary 1:-";
+	cout<<s5.salary<<endl;
+	cout<<"Employees experience 1:-";
+	cout<<s6.experience<<endl;
+	cout<<"Employees city 1:-";
+	cout<<s7.city<<endl;
+	cout<<"Employees company Name 1:-";
+	cout<<s8.company_name<<endl;
+// -------------2-----------------------	
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 2"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl<<endl;
+	cout<<endl<<"Employees id 2:-";
+	cout<<z1.id<<endl;
+	cout<<"Employees Name 2:-";
+	cout<<z2.name<<endl;
+	cout<<"Employees role 2:-";
+	cout<<z3.role<<endl;
+	cout<<"Employees age 2:-";
+	cout<<z4.age<<endl;
+	cout<<"Employees salary 2:-";
+	cout<<z5.salary<<endl;
+	cout<<"Employees experience 2:-";
+	cout<<z6.experience<<endl;
+	cout<<"Employees city 2:-";
+	cout<<z7.city<<endl;
+	cout<<"Employees company Name 2:-";
+	cout<<z8.company_name<<endl;
+	
+// -------------------3-----------------
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 3"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl<<endl;
+	cout<<endl<<"Employees id 3:-";
+	cout<<i1.id<<endl;
+	cout<<"Employees Name 3:-";
+	cout<<i2.name<<endl;
+	cout<<"Employees role 3:-";
+	cout<<i3.role<<endl;
+	cout<<"Employees age 3:-";
+	cout<<i4.age<<endl;
+	cout<<"Employees salary 3:-";
+	cout<<i5.salary<<endl;
+	cout<<"Employees experience 3:-";
+	cout<<i6.experience<<endl;
+	cout<<"Employees city 3:-";
+	cout<<i7.city<<endl;
+	cout<<"Employees company Name 3:-";
+	cout<<i8.company_name<<endl;
+// -------------4-----------------------	
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 4"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl<<endl;
+	cout<<endl<<"Employees id 4:-";
+	cout<<o1.id<<endl;
+	cout<<"Employees Name 4:-";
+	cout<<o2.name<<endl;
+	cout<<"Employees role 4:-";
+	cout<<o3.role<<endl;
+	cout<<"Employees age 4:-";
+	cout<<o4.age<<endl;
+	cout<<"Employees salary 4:-";
+	cout<<o5.salary<<endl;
+	cout<<"Employees experience 4:-";
+	cout<<o6.experience<<endl;
+	cout<<"Employees city 4:-";
+	cout<<o7.city<<endl;
+	cout<<"Employees company Name 4:-";
+	cout<<o8.company_name<<endl;
+	
+	// -------------------5-----------------
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl;
+	cout<<"Employees 5"<<endl;
+	cout<<"_-_-_-_-_-_-_-_-_-_"<<endl<<endl;
+	cout<<endl<<"Employees id 5:-";
+	cout<<t1.id<<endl;
+	cout<<"Employees Name 5:-";
+	cout<<t2.name<<endl;
+	cout<<"Employees role 5:-";
+	cout<<t3.role<<endl;
+	cout<<"Employees age 5:-";
+	cout<<t4.age<<endl;
+	cout<<"Employees salary 5:-";
+	cout<<t5.salary<<endl;
+	cout<<"Employees experience 5:-";
+	cout<<t6.experience<<endl;
+	cout<<"Employees city 5:-";
+	cout<<t7.city<<endl;
+	cout<<"Employees company Name 5:-";
+	cout<<t8.company_name<<endl;	
+	
+}
